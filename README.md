@@ -1,4 +1,4 @@
-- Hi, I’m @Alfariz11
+- Hi, I'm Rizki Alfariz Ramadhan
 
 <!---
 Alfariz11/Alfariz11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
