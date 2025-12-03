@@ -31,29 +31,22 @@
 **Frontend:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 **Database:**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Data Science & ML:**  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 **Tools:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -62,10 +55,7 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=Alfariz11&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfariz11&theme=radical&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfariz11&layout=compact&theme=radical&hide_border=true" width="48%" />
 
 </div>
 
@@ -81,11 +71,15 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Stats
 
 <div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alfariz11&theme=react-dark&hide_border=true&area=true)
+
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/Alfariz11/Alfariz11/output/github-contribution-grid-snake-dark.svg)
+
+### 📅 Yearly Contributions
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alfariz11&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph)
 
 </div>
 
@@ -103,10 +97,3 @@
 </div>
 
 ---
-
-<div align="center">
-  
-**Thanks for visiting!** 😊  
-![Visitor Count](https://profile-counter.glitch.me/Alfariz11/count.svg)
-
-</div>
